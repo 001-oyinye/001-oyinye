@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @001-oyinye
-- 👀 I’m interested in buiding website and creating app, Also, I'd love to become a fullstack developer
-- 🌱 I’m currently learning how to build a website and python
+- 👋 Hi, I’m Ruth
+- 👀 I’m a web developer and I design aswell
+- 🌱 I’m currently learning cybersecurity
 - 💞️ I’m looking to collaborate with other developers, so we can do more than Elon musk
 - 📫 How to reach me 08161649285 or nobleyellow82@gmail.com
-- 😄 Pronouns: I can
+- 😄 Pronouns: She/her
 - ⚡ Fun fact: .....
 
 <!---
